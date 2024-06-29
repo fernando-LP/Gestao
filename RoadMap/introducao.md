@@ -47,6 +47,34 @@ Fosse possível ter algo parecido com um cronograma, mas:
 
 ### Projeto VS Produto
 
+
 #### Projeto
 * Segundo o PMBOK um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado **exclusivo**. Fonte: [Pmisp](https://pmisp.org.br/pmbok-guide/)
+
+#### Ciclo de vida do Produto
+* É a historia completa de um produto serviço ou marca apresentada por meio das fases de vendas:
+
+![ciclodevida](https://github.com/fernando-LP/Gestao/assets/70675152/bfc05f46-398d-42b1-9734-45a7424e63f0)
+
+
+#### Visão Projeto vs Visão Produto 
+* PROJETO
+  - Tarefas;
+  - Quem;
+  - Quando;
+  - Custo.
+
+* PRODUTO
+   - Usuário;
+   - Valores;
+   - Evolução;
+   - Custo.
+ 
+
+#### Exeplos de Roadmap
+| Tempo   | Release      | Descrição                         |
+|---------|--------------|-----------------------------------|
+| Now (Agora)   | Release 1.0  | Mini curso                        |
+| Next (A seguir)| Release 1.1  | Teste online sobre perfil         |
+| Later (Futuro)  | Release 1.2  | Inteligência artificial           |
 
