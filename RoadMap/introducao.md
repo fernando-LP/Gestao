@@ -43,3 +43,10 @@ Fosse possível ter algo parecido com um cronograma, mas:
 * **O que é?**
    - "Roadmap, como o nome sugere, é uma espécie de mapa, uma poderosa ferramenta visual e descritiva que aponta como será o produto ou projeto a cada período de sua evolução."  
    Fonte: [Endeavor](https://endeavor.org.br/estrategia-e-gestao/roadmap/)
+
+
+### Projeto VS Produto
+
+#### Projeto
+* Segundo o PMBOK um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado **exclusivo**. Fonte: [Pmisp](https://pmisp.org.br/pmbok-guide/)
+
