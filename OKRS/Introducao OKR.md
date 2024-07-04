@@ -136,3 +136,11 @@ Por esse motivo, as OKRs propõem que haja uma definição de objetivos **bottom
 ## OKRs sustentáveis
 
 Podemos criar um OKR com ações que provavelmente levem ao objetivo, mas isso pode não ser bom para a empresa. Por exemplo, o objetivo de _Aumentar a base de Clientes_ com a ação de _Reduzir preço em 70%_. Isso pode ser muito prejudicial para a empresa. Key results que forcem o atingimento do objetivo a qualquer custo são prejudiciais.
+
+- OKRs sustentáveis: um OKR é sustentável quando o atingimento seus key results não acarretam efeitos colaterais indesejáveis em outros objetivos e/ou aspectos da organização fora do escopo do OKR.
+
+- Excesso de OKRs / key results: trabalhar com muitos OKRs acarreta falta de foco (dispersão de energia), prejudicando o atingimento dos objetivos. Da mesma forma, cada OKR deve ter no máximo 5 key results, para evitar confusão, dispersão e excesso de complexidade.
+
+- Alinhamento de OKRs: os OKRs devem estar alinhados com a estratégia da organização (trabalhar em prol da mesma) e harmoniosos entre si, sem conflitos de objetivos nem key results que colidam com metas estabelecidas em outras equipes.
+
+- Iniciativas / atividades X key results: o atingimento dos key results exige a realização de iniciativas / ações / atividades, mas o foco deve ser nos key results. Cumprir uma atividade definida e achar que "a missão foi cumprida" é se entregar a uma falsa sensação de sucesso, pois o que importa é a meta e esta deve ser observada.
